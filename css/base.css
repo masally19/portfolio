@@ -620,7 +620,7 @@ ul{
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
-  speak: none;
+  /* speak: none; */
  
   display: inline-block;
   text-decoration: inherit;
@@ -666,7 +666,6 @@ ul{
 .icon-heart-empty:before { content: '\2661'; } /* '' */
 .icon-left-open:before { content: '\E75D'; } /* '' */
 .icon-right-open:before { content: '\E75E'; } /* '' */
-
 
 
 /*-------------------------*/
